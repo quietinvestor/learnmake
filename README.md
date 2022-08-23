@@ -48,4 +48,5 @@ cd learnmake
 ## 4. Footnotes
 
 <sup>1</sup> The `Makefile` is not yet portable to other Operating Systems (OSes), but I will amend that in the future when I need it.
+
 <sup>2</sup> Both `bin` and `lib` directories are automatically created when running `make` and deleted when running `make clean`.
