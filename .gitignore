@@ -1,0 +1,4 @@
+# Ignore executable file directory and its contents.
+bin/
+# Ignore object file directory and its contents.
+lib/
